@@ -130,8 +130,8 @@ const Key keymaps[][ROWS][COLS] PROGMEM = {
   (___,          Key_1, Key_2, Key_3, Key_4, Key_5, Key_Escape,
    Key_Backtick, Key_Q, Key_W, Key_E, Key_R, Key_T, Key_Tab,
    Key_PageUp,   Key_A, Key_S, Key_D, Key_F, Key_G,
-   Key_PageDown, Key_Z, Key_X, Key_C, Key_V, Key_B, Key_LeftGui,
-   Key_LeftControl, Key_LeftAlt, Key_Spacebar, Key_LeftShift,
+   Key_PageDown, Key_Z, Key_X, Key_C, Key_V, Key_B, Key_Spacebar,
+   Key_LeftControl, Key_LeftAlt, Key_LeftGui, Key_LeftShift,
    ShiftToLayer(FUNCTION),
 
    Key_Backspace,  Key_6, Key_7, Key_8,     Key_9,         Key_0,         Key_KeypadNumLock,
